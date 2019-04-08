@@ -1,0 +1,132 @@
+.top-container{
+    margin: 0;
+    padding-bottom: 0;
+    position: relative;
+    padding-top: 100px;
+    background-color: #E4F9F5;
+}
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.contact-me{
+    margin: 40px 0;
+}
+.intro{
+    width: 30%;
+    margin: auto; 
+}
+p{
+    line-height: 2;
+}
+h1{
+    margin-top: 0;
+    letter-spacing: 2;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    line-height: 1;
+    margin-bottom: 5px;
+    color: #66BFBF;
+}
+.radius{
+    border-radius: 100%
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    color: gray;
+    width: 8%;
+}
+footer{
+     background-color: #66BFBF;
+     margin: 0;
+     padding-top: 40px;
+     height: 80px;
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height:2;
+}
+.web{
+    border-radius: 100%;
+    float: left;
+    margin-right: 50px;
+}
+.chillies{
+    border-radius: 100%;
+    float: left;
+    margin-right: 50px;
+}
+.space{
+    line-height: 2;
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-weight: normal;
+    font-family: 'Merriweather', serif;
+    color: #11999E;
+}
+#top-cloud{
+    position: absolute;
+    right:18.75%;
+    top:40px;
+}
+#bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 18.75em;
+}
+.footer-link{
+    color: #11999E;
+    text-decoration: none;
+    
+}
+.skills{
+    margin: 40px 0;
+}
+.profile{
+    margin-bottom: 20px;
+}
+.footer-link{
+    line-height: 2;
+    word-spacing: 2;
+}
+.btn{
+    border-style: solid;
+    border-color: skyblue;
+    font-size: 18px;
+    font-family: 'Merriweather', serif;
+    margin: 40px 0;
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: skyblue;
+    border-radius: 10%;
+}
+.btn:hover{
+    color: green;
+    background-color: yellow;
+    border-color: yellow;
+}
+.btn:active{
+    color: red;
+}
+.btn:visited{
+    color: red;
+}
+.footer-link:visited{
+    color: red;
+}
+a:hover{
+    color: whitesmoke;
+}
